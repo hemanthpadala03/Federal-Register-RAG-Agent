@@ -403,10 +403,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 
-- 📧 Email: support@federal-register-rag.com
-- 💬 Discord: [Join our community](#)
+- 📧 Email: padala.hemanth2022@vitstudent.ac.in
 - 🐛 Issues: [GitHub Issues](https://github.com/hemanthpadala03/Federal-Register-RAG-Agent/issues)
-- 📖 Documentation: [Full Documentation](#)
 
 ---
 
