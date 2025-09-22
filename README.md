@@ -348,7 +348,6 @@ sudo systemctl status mysql
 **Slow Performance**
 - Enable MySQL query cache
 - Add database indexes
-- Use SSD storage for better I/O performance
 
 ## 📊 Monitoring & Analytics
 
